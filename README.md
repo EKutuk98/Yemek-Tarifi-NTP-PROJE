@@ -8,7 +8,8 @@ Tarif yönetimi, malzeme takibi, kullanıcı değerlendirmeleri ve kişisel notl
 
 ## 📸 Ekran Görüntüleri
 
-> **[SCREENSHOT: Ana ekran — header, dashboard kartları ve menü, koyu lüks tema]**
+<img width="954" height="459" alt="image" src="https://github.com/user-attachments/assets/7dad4494-a918-48ef-aa92-f86ce77e9a74" />
+
 
 ---
 
